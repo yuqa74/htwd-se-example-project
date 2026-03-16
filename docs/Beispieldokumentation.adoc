@@ -1,0 +1,9 @@
+= Beispiel-Dokumentation mit AsciiDoc 
+Michele Locke   micheleleon.locke@stud.htw-dresden.de
+1.0, 16.03.2026
+:toc: 
+:toc-title: Inhaltsverzeichnis
+// Platzhalter für weitere Dokumenten-Attribute 
+
+== Einführung
+Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben der Syntax von AsciiDoc.
