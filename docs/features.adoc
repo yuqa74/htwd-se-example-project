@@ -1,0 +1,13 @@
+= Features
+
+== Beschreibung
+
+<insert_bugfix_here>
+
+== Feature 1
+
+<insert_feature_here>
+
+== Feature 2
+
+<insert_feature_here>
