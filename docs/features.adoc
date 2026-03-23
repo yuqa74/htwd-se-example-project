@@ -2,11 +2,10 @@
 
 == Beschreibung
 
-<insert_bugfix_here>
-
+DEF
 == Feature 1
 
-<insert_feature_here>
+ABC
 
 == Feature 2
 
